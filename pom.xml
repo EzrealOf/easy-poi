@@ -10,7 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>easy-poi-common</module>
-        <module>easy-poi-common-greater</module>
+        <module>easy-poi-bss</module>
+        <module>easy-poi-web</module>
     </modules>
 
     <parent>
@@ -87,7 +88,12 @@
             <artifactId>guava</artifactId>
             <version>29.0-jre</version>
         </dependency>
-
+        <!--  bean copy-->
+        <dependency>
+            <groupId>com.github.dozermapper</groupId>
+            <artifactId>dozer-core</artifactId>
+            <version>6.5.0</version>
+        </dependency>
     </dependencies>
 
     <build>
