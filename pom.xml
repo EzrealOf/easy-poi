@@ -12,6 +12,7 @@
         <module>easy-poi-common</module>
         <module>easy-poi-bss</module>
         <module>easy-poi-web</module>
+        <module>easy-poi-alibaba</module>
     </modules>
 
     <parent>
