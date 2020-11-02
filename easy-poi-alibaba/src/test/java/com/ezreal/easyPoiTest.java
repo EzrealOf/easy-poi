@@ -1,7 +1,7 @@
 package com.ezreal;
 
 import com.alibaba.excel.EasyExcel;
-import com.ezreal.controller.com.ezreal.model.FileModel;
+import com.ezreal.model.FileModel;
 import com.ezreal.util.TestFileUtil;
 import com.google.common.collect.Lists;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package com.ezreal.controller.com.ezreal.model;
+package com.ezreal.model;
 
 import lombok.Data;
 
